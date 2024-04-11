@@ -11,5 +11,5 @@ As of now, it's a one file "hello world" program, but has helped me set up my pe
 
 # Build
 1. `mkdir .\build`
-1. `cmake .. -G "MinGW Makefiles"
+1. `cmake .. -G "MinGW Makefiles"`
 1. `make`
